@@ -165,7 +165,9 @@ Borg
 Ewok
 
 # Tonari no Totoro
-Totoro
++Totoro
++Chu Totoro
++Chibi Totoro
 
 # Nausicaa
 ohmu
